@@ -4,9 +4,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/linweiyuan/go-chatgpt-api/api"
-	"github.com/linweiyuan/go-chatgpt-api/util/logger"
 	"github.com/tebeka/selenium"
+	"github.com/yicone/go-chatgpt-api/api"
+	"github.com/yicone/go-chatgpt-api/util/logger"
 )
 
 const (

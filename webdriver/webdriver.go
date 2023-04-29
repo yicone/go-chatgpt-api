@@ -7,12 +7,12 @@ import (
 	"sync"
 	"syscall"
 
-	_ "github.com/linweiyuan/go-chatgpt-api/env"
+	_ "github.com/yicone/go-chatgpt-api/env"
 
-	"github.com/linweiyuan/go-chatgpt-api/api"
-	"github.com/linweiyuan/go-chatgpt-api/util/logger"
 	"github.com/tebeka/selenium"
 	"github.com/tebeka/selenium/chrome"
+	"github.com/yicone/go-chatgpt-api/api"
+	"github.com/yicone/go-chatgpt-api/util/logger"
 )
 
 var WebDriver selenium.WebDriver

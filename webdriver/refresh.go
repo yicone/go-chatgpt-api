@@ -3,8 +3,8 @@ package webdriver
 import (
 	"strings"
 
-	"github.com/linweiyuan/go-chatgpt-api/api"
-	"github.com/linweiyuan/go-chatgpt-api/util/logger"
+	"github.com/yicone/go-chatgpt-api/api"
+	"github.com/yicone/go-chatgpt-api/util/logger"
 )
 
 //goland:noinspection GoUnhandledErrorResult

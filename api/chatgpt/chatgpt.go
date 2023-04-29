@@ -12,9 +12,9 @@ import (
 	"github.com/PuerkitoBio/goquery"
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
-	"github.com/linweiyuan/go-chatgpt-api/api"
-	"github.com/linweiyuan/go-chatgpt-api/webdriver"
 	"github.com/tebeka/selenium"
+	"github.com/yicone/go-chatgpt-api/api"
+	"github.com/yicone/go-chatgpt-api/webdriver"
 
 	http "github.com/bogdanfinn/fhttp"
 	tls_client "github.com/bogdanfinn/tls-client"

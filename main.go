@@ -5,11 +5,11 @@ import (
 	"os"
 
 	"github.com/gin-gonic/gin"
-	"github.com/linweiyuan/go-chatgpt-api/api/chatgpt"
-	"github.com/linweiyuan/go-chatgpt-api/api/official"
-	_ "github.com/linweiyuan/go-chatgpt-api/env"
-	"github.com/linweiyuan/go-chatgpt-api/middleware"
-	"github.com/linweiyuan/go-chatgpt-api/webdriver"
+	"github.com/yicone/go-chatgpt-api/api/chatgpt"
+	"github.com/yicone/go-chatgpt-api/api/official"
+	_ "github.com/yicone/go-chatgpt-api/env"
+	"github.com/yicone/go-chatgpt-api/middleware"
+	"github.com/yicone/go-chatgpt-api/webdriver"
 )
 
 func init() {
