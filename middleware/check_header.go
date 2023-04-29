@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/linweiyuan/go-chatgpt-api/api"
+	"github.com/yicone/go-chatgpt-api/api"
 )
 
 //goland:noinspection GoUnhandledErrorResult

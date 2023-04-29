@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/linweiyuan/go-chatgpt-api/util/logger"
+	"github.com/yicone/go-chatgpt-api/util/logger"
 
 	tls_client "github.com/bogdanfinn/tls-client"
 )
